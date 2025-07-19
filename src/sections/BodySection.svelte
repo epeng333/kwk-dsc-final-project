@@ -226,6 +226,36 @@
     expanding their career opportunities and thus contributing to their
     financial well-being.
   </p>
+
+  <h2>
+    <a href="https://blackwealthdata.org/explore/employment">Employment</a>
+  </h2>
+
+  <h3>7. Black Median Annual Earnings increased</h3>
+
+  <p>
+    From 2019 to 2023, median annual earnings for full-time Black workers aged
+    25-34 increased overall from $43,660 to $46,040.
+  </p>
+
+  <!-- Data graphic 13  -->
+  <img
+    class="median-earnings-all-img"
+    src="median-earnings-all.png"
+    alt="Median Earnings All"
+  />
+
+  <!-- Data graphic 14  -->
+  <img
+    class="median-earnings-black-img"
+    src="median-earnings-black.png"
+    alt="Median Earnings Black"
+  />
+
+  <p>
+    Having more income leads to having more money to pay off expenses, invest to
+    gain more money, and improve Black financial well-being.
+  </p>
 </div>
 
 <style>
@@ -276,6 +306,14 @@
     margin: 0px auto;
   }
   .bachelor-degree-attainment-img {
+    width: 100%;
+    margin: 0px auto;
+  }
+  .median-earnings-all-img {
+    width: 100%;
+    margin: 0px auto;
+  }
+  .median-earnings-black-img {
     width: 100%;
     margin: 0px auto;
   }
