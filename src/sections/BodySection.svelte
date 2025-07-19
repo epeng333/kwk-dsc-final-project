@@ -256,6 +256,37 @@
     Having more income leads to having more money to pay off expenses, invest to
     gain more money, and improve Black financial well-being.
   </p>
+
+  <h2>Business</h2>
+
+  <h3>8. Black Entrepreneurship increased</h3>
+
+  <p>
+    According to the Urban Institute’s <a
+      href="https://blackwealthdata.org/resources/library/Economic-Development-Strategies-for-Promoting-Black-Economic-Prosperity"
+      >brief</a
+    >
+    titled
+    <i
+      >Economic Development Strategies for Promoting Black Economic Prosperity</i
+    >, “<strong
+      >Black entrepreneurship surged during COVID-19 (380 out of 100,000 Black
+      adults became entrepreneurs compared to 240 previously)</strong
+    >, but only 32% of Black business owners were fully approved for loans in
+    2023 versus 56% of white entrepreneurs.”
+  </p>
+
+  <p>
+    The increase in Black businesses can be a positive sign for Black financial
+    well-being since owning and running one’s own business can possibly
+    contribute to one’s wealth and bring one closer to financial freedom.
+  </p>
+
+  <p>
+    However, there is room for improvement, as seen in the stark contrast
+    between the percent of Black business owners who were approved for loans and
+    the percent of White business owners who were approved for loans.
+  </p>
 </div>
 
 <style>
