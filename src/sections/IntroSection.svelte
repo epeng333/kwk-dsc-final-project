@@ -7,8 +7,7 @@
     security and freedom, and a world that I was intimidated by because I was not
     very knowledgeable about it.
   </p>
-  <!-- <p>Hello, my name is <strong>{name}</strong>!</p> -->
-  <!-- <p>My favorite number is <strong>{favoriteNumber}</strong>.</p> -->
+
   <p>
     Who knew I would encounter terms like <i>assets</i>, <i>debts</i>,
     <i>businesses</i>, and <i>homeownership</i> again after reading
@@ -58,6 +57,7 @@
     me.
   </p>
 
+  <!-- Data graphic 1  -->
   <img
     class="financial-well-being-img"
     src="financial-well-being.png"
@@ -89,12 +89,12 @@
 
   <p>This led me to the following question:</p>
 
-  <p>
+  <h4>
     <strong
       >What factors could have caused an increase in Black respondents who say
       that they are better off in 2023 than in 2020?</strong
     >
-  </p>
+  </h4>
 </div>
 
 <style>

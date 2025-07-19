@@ -4,6 +4,7 @@
   import ImageExample from "./sections/ImageExample.svelte";
   import TitleSection from "./sections/TitleSection.svelte";
   import IntroSection from "./sections/IntroSection.svelte";
+  import BodySection from "./sections/BodySection.svelte";
   import InteresectionObserverBasicExample from "./sections/InteresectionObserverBasicExample.svelte";
   import IntersectionObserverAlertExample from "./sections/IntersectionObserverAlertExample.svelte";
   import DisappearingDuckExample from "./sections/DisappearingDuckExample.svelte";
@@ -14,6 +15,7 @@
 <main>
   <TitleSection />
   <IntroSection />
+  <BodySection />
   <RightAlignedExample />
   <LeftAlignedExample />
   <ImageExample />
