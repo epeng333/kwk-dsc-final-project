@@ -44,8 +44,8 @@
   />
 
   <p>
-    From 2019 to 2022, Black households’ <strong>median total net worth</strong>
-    jumped from $28,000 to $44,000.
+    From 2019 to 2022, Black households’ median total net worth jumped from
+    $28,000 to $44,000.
   </p>
 
   <!-- Data graphic 3  -->
@@ -60,14 +60,44 @@
     hover your cursor over the vertical dotted line above 2020, in the years
     following the onset of the COVID-19 pandemic in 2020, factors such as <strong
       >wage growth</strong
-    >, <strong>government support</strong> (such as <strong>stimulus checks</strong>), and
+    >, <strong>government support</strong> (such as
+    <strong>stimulus checks</strong>), and
     <strong>rising home values</strong>
     contributed to Americans’ wealth.
   </p>
 
   <p>
     Most notably, “Black households experienced the <strong
-      >biggest percentage increase</strong> as <strong>median net worth rose 59 percent</strong> to $44,100.”
+      >biggest percentage increase</strong
+    >
+    as <strong>median net worth rose 59 percent</strong> to $44,100.”
+  </p>
+
+  <h3>2. Median Total Assets for Black Households increased</h3>
+
+  <!-- Data graphic 4  -->
+  <img
+    class="median-assets-img"
+    src="median-assets.png"
+    alt="Median Assets"
+  />
+
+  <p>
+    From 2019 to 2022, Black households’ median total assets increased from
+    $61,000 to $106,000.
+  </p>
+
+  <!-- Data graphic 5  -->
+  <img
+    class="median-debt-img"
+    src="median-debt.png"
+    alt="Median Debt"
+  />
+
+  <p>
+    On the other hand, Black households’ median total debt also increased from
+    $32,000 in 2019 to $45,000 in 2022. However, Black households have lower
+    debts compared to White and Other non-Hispanic households.
   </p>
 </div>
 
@@ -83,6 +113,14 @@
     margin: 0px auto;
   }
   .covid-19-explanation-img {
+    width: 100%;
+    margin: 0px auto;
+  }
+  .median-assets-img {
+    width: 100%;
+    margin: 0px auto;
+  }
+    .median-debt-img {
     width: 100%;
     margin: 0px auto;
   }
