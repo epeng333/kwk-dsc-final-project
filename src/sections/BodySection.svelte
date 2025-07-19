@@ -76,11 +76,7 @@
   <h3>2. Median Total Assets for Black Households increased</h3>
 
   <!-- Data graphic 4  -->
-  <img
-    class="median-assets-img"
-    src="median-assets.png"
-    alt="Median Assets"
-  />
+  <img class="median-assets-img" src="median-assets.png" alt="Median Assets" />
 
   <p>
     From 2019 to 2022, Black households’ median total assets increased from
@@ -88,16 +84,41 @@
   </p>
 
   <!-- Data graphic 5  -->
-  <img
-    class="median-debt-img"
-    src="median-debt.png"
-    alt="Median Debt"
-  />
+  <img class="median-debt-img" src="median-debt.png" alt="Median Debt" />
 
   <p>
     On the other hand, Black households’ median total debt also increased from
     $32,000 in 2019 to $45,000 in 2022. However, Black households have lower
     debts compared to White and Other non-Hispanic households.
+  </p>
+
+  <h3>3. Percent of Black Households Holding Asset Types increased</h3>
+
+  <p>
+    The percentage of Black households holding various asset types has increased
+    over the years.
+  </p>
+
+  <!-- Data graphic 6  -->
+  <img
+    class="directly-held-stocks-img"
+    src="directly-held-stocks.png"
+    alt="Directly Held Stocks"
+  />
+
+  <!-- Data graphic 7  -->
+  <img
+    class="value-household-stock-img"
+    src="value-household-stock.png"
+    alt="Value Household Stock"
+  />
+
+  <p>
+    For example, from 2019 to 2022, the percent of Black households holding
+    <strong>directly held stocks</strong> nearly doubled from 6.7% to 13.2%,
+    while Black households’
+    <strong> total value of household stock holdings</strong> increased from 33.5%
+    to 39.2%.
   </p>
 </div>
 
@@ -120,7 +141,15 @@
     width: 100%;
     margin: 0px auto;
   }
-    .median-debt-img {
+  .median-debt-img {
+    width: 100%;
+    margin: 0px auto;
+  }
+  .directly-held-stocks-img {
+    width: 100%;
+    margin: 0px auto;
+  }
+  .value-household-stock-img {
     width: 100%;
     margin: 0px auto;
   }
