@@ -120,6 +120,40 @@
     <strong> total value of household stock holdings</strong> increased from 33.5%
     to 39.2%.
   </p>
+
+  <h3>4. Two of Black Households’ Debt Types decreased</h3>
+
+  <p>
+    In terms of debt, the percent of Black households holding debt types has
+    increased for all debt types.
+  </p>
+
+  <p>
+    However, when looking at debt for Black households from 2019 to 2022, two
+    debt categories have seen decreases from 2019 to 2022.
+  </p>
+
+  <!-- Data graphic 8  -->
+  <img
+    class="debt-primary-residence-img"
+    src="debt-primary-residence.png"
+    alt="Debt Primary Residence"
+  />
+
+  <!-- Data graphic 9  -->
+  <img
+    class="education-loans-img"
+    src="education-loans.png"
+    alt="Education Loans"
+  />
+
+  <p>
+    From 2019 to 2022, Black households’ median <strong
+      >debt secured by primary residence</strong
+    >
+    decreased from $134,468 to $111,000, and Black households’ median
+    <strong>education loans</strong> decreased from $34,776 to $26,000.
+  </p>
 </div>
 
 <style>
@@ -150,6 +184,14 @@
     margin: 0px auto;
   }
   .value-household-stock-img {
+    width: 100%;
+    margin: 0px auto;
+  }
+  .debt-primary-residence-img {
+    width: 100%;
+    margin: 0px auto;
+  }
+  .education-loans-img {
     width: 100%;
     margin: 0px auto;
   }
