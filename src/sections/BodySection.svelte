@@ -30,9 +30,9 @@
     and Business.
   </p>
 
-  <h3>
+  <h2>
     <a href="https://blackwealthdata.org/explore/assets">Assets and Debts</a>
-  </h3>
+  </h2>
 
   <h3>1. Median Total Net Worth for Black Households increased</h3>
 
@@ -187,6 +187,45 @@
     Having bank accounts can help people gain access to financial institutions’
     services and open up more possibilities for economic mobility.
   </p>
+
+  <h2>
+    <a href="https://blackwealthdata.org/explore/education">Education</a>
+  </h2>
+
+  <h3>6. Black High School and College Graduates increased</h3>
+
+  <p>
+    Over the years, the percentage of Black students who completed high school
+    and who obtained a bachelor’s degree or higher has increased.
+  </p>
+
+  <!-- Data graphic 11  -->
+  <img
+    class="high-school-attainment-img"
+    src="high-school-attainment.png"
+    alt="High School Attainment"
+  />
+
+  <!-- Data graphic 12  -->
+  <img
+    class="bachelor-degree-attainment-img"
+    src="bachelor-degree-attainment.png"
+    alt="Bachelor Degree Attainment"
+  />
+
+  <p>
+    From 2019 to 2023, the percent of Black students who completed high school
+    or higher increased from 88.8% to 91.3%, and the percent of Black students
+    who obtained a bachelor’s degree or higher increased from 26.3% to 29.0%.
+  </p>
+
+  <p>
+    Having a high school diploma and a bachelor’s degree or higher can not only
+    equip students with more knowledge and experience in various fields but also
+    help them meet qualifications for entry-level or field-specific jobs,
+    expanding their career opportunities and thus contributing to their
+    financial well-being.
+  </p>
 </div>
 
 <style>
@@ -229,6 +268,14 @@
     margin: 0px auto;
   }
   .percent-unbanked-img {
+    width: 100%;
+    margin: 0px auto;
+  }
+  .high-school-attainment-img {
+    width: 100%;
+    margin: 0px auto;
+  }
+  .bachelor-degree-attainment-img {
     width: 100%;
     margin: 0px auto;
   }
