@@ -16,8 +16,8 @@
   <TitleSection />
   <IntroSection />
   <BodySection />
-  <RightAlignedExample />
   <LeftAlignedExample />
+  <RightAlignedExample />
   <ImageExample />
 
   <IntersectionObserverSectionCard />
