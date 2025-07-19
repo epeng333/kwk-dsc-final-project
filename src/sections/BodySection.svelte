@@ -154,6 +154,39 @@
     decreased from $134,468 to $111,000, and Black households’ median
     <strong>education loans</strong> decreased from $34,776 to $26,000.
   </p>
+
+  <h3>5. Black Unbanked Households decreased</h3>
+
+  <p>
+    While Black unbanked households may have the highest percentage among all
+    racial groups, the percent of Black unbanked households decreased over time
+    from 2017 to 2023.
+  </p>
+
+  <!-- Data graphic 10  -->
+  <img
+    class="percent-unbanked-img"
+    src="percent-unbanked.png"
+    alt="Percent Unbanked"
+  />
+
+  <p>
+    From 2019 to 2022, the percent of Black unbanked households dropped from
+    13.8% to 10.6%.
+  </p>
+
+  <p>
+    This decrease could mean that fewer Black households may face the negative
+    consequences of being unbanked, which can include facing challenges in
+    building a good credit history and not having access to certain financial
+    services and opportunities that can help them save money and build their
+    financial wealth.
+  </p>
+
+  <p>
+    Having bank accounts can help people gain access to financial institutions’
+    services and open up more possibilities for economic mobility.
+  </p>
 </div>
 
 <style>
@@ -192,6 +225,10 @@
     margin: 0px auto;
   }
   .education-loans-img {
+    width: 100%;
+    margin: 0px auto;
+  }
+  .percent-unbanked-img {
     width: 100%;
     margin: 0px auto;
   }
