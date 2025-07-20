@@ -11,7 +11,7 @@
 
 <style>
     .title-card {
-        background-color: #007052;
+        background-color: #0B1D51;
         height: 100vh;
         display: flex;
         justify-content: center;
@@ -24,17 +24,17 @@
 
     .content {
         max-width: 700px;
-        background-color: #034c36;
+        background-color: #687FE5;
         padding: 2rem;
-        border: 6px solid #e3ff00;
-        border-radius: 2rem;
+        border: 6px solid #F4DBD8;
+        /* border-radius: 2rem; */
         box-shadow: 16px 16px #188f70;
     }
 
     h1 {
         font-size: 3rem;
         margin: 0;
-        color: #e3ff00;
+        color: #F4DBD8;
         text-shadow: 1px 1px 0 #007052;
     }
 

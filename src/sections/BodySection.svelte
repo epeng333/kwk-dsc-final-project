@@ -296,6 +296,13 @@
     padding: 20px;
     /* text-align: center; */
   }
+  h3 {
+    font-size: 2rem;
+    margin: 0;
+    padding-top: 10px;
+    color: #7B68EE;
+    /* text-shadow: 1px 1px 0 #007052; */
+  }
   .median-net-worth-img {
     width: 100%;
     margin: 0px auto;
