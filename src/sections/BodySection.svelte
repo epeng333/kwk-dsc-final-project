@@ -300,7 +300,7 @@
     font-size: 2rem;
     margin: 0;
     padding-top: 10px;
-    color: #7B68EE;
+    color: #5409DA;
     /* text-shadow: 1px 1px 0 #007052; */
   }
   .median-net-worth-img {

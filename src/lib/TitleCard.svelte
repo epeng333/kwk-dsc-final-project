@@ -28,7 +28,8 @@
         padding: 2rem;
         border: 6px solid #F4DBD8;
         /* border-radius: 2rem; */
-        box-shadow: 16px 16px #188f70;
+        /* box-shadow: 16px 16px #188f70; */
+        box-shadow: 16px 16px #5409DA;
     }
 
     h1 {
