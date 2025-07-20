@@ -130,7 +130,7 @@
 
   <p>
     However, when looking at debt for Black households from 2019 to 2022, two
-    debt categories have seen decreases from 2019 to 2022.
+    debt categories have seen decreases.
   </p>
 
   <!-- Data graphic 8  -->
@@ -159,8 +159,8 @@
 
   <p>
     While Black unbanked households may have the highest percentage among all
-    racial groups, the percent of Black unbanked households decreased over time
-    from 2017 to 2023.
+    racial groups, the percent of Black unbanked households decreased from 2017
+    to 2023.
   </p>
 
   <!-- Data graphic 10  -->
@@ -171,7 +171,7 @@
   />
 
   <p>
-    From 2019 to 2022, the percent of Black unbanked households dropped from
+    From 2019 to 2023, the percent of Black unbanked households dropped from
     13.8% to 10.6%.
   </p>
 
@@ -195,8 +195,8 @@
   <h3>6. Black High School and College Graduates increased</h3>
 
   <p>
-    Over the years, the percentage of Black students who completed high school
-    and who obtained a bachelor’s degree or higher has increased.
+    Over the years, the percentages of Black students who completed high school
+    and who obtained a bachelor’s degree or higher have increased.
   </p>
 
   <!-- Data graphic 11  -->
