@@ -19,13 +19,13 @@
   <BodySection />
   <LeftAlignedExample />
   <ConclusionSection />
-  
-  <RightAlignedExample />
-  <ImageExample />
 
-  <IntersectionObserverSectionCard />
-  <InteresectionObserverBasicExample />
-  <IntersectionObserverAlertExample />
+  <!-- <RightAlignedExample /> -->
+  <!-- <ImageExample /> -->
+
+  <!-- <IntersectionObserverSectionCard /> -->
+  <!-- <InteresectionObserverBasicExample /> -->
+  <!-- <IntersectionObserverAlertExample /> -->
   <DisappearingDuckExample />
-  <IntersectionObserverListExample />
+  <!-- <IntersectionObserverListExample /> -->
 </main>
