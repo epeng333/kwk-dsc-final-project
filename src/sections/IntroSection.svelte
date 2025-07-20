@@ -91,8 +91,8 @@
 
   <h4>
     <strong
-      >What factors could have caused an increase in Black respondents who say
-      that they are better off in 2023 than in 2020?</strong
+      >What factors could have contributed to the increase in Black respondents who said
+    they were better off financially in 2023?</strong
     >
   </h4>
 </div>
